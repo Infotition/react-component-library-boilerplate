@@ -8,7 +8,7 @@ describe('Test Component', () => {
 
   beforeEach(() => {
     props = {
-      title: 'Example headline',
+      title: 'Example headline!',
     };
   });
 
@@ -17,6 +17,6 @@ describe('Test Component', () => {
   it('should render title text correctly', () => {
     const { getByTestId } = renderComponent();
     const component = getByTestId('Headline');
-    expect(component).toHaveTextContent('Example headline');
+    expect(component).toHaveTextContent('Example headline!');
   });
 });
