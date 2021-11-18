@@ -36,6 +36,7 @@ export default [
       typescript({ useTsconfigDeclarationDir: true }),
       external(),
       resolve(),
+      terser(),
     ],
   },
 ];

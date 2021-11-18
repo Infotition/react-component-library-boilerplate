@@ -1,7 +1,7 @@
 {
-  "name": "infotition-components",
+  "name": "infotition-react-component-library-boilerplate",
   "version": "1.0.0",
-  "description": "Custom react components for infotition modules.",
+  "description": "Boilerplate for NPM packages with storybook, typescript, jest, eslint, prettier and tailwindcss development environment.",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
@@ -14,7 +14,7 @@
     "coverage": "jest --coverage",
     "test:watch": "jest --watch",
     "storybook": "start-storybook -p 6006",
-    "storybook:export": "build-storybook",
+    "storybook:export": "build-storybook -o docs-build",
     "generate": "node ./cli/create-component",
     "lint": "eslint .",
     "type:check": "tsc"

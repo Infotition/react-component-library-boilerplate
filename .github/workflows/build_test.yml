@@ -1,6 +1,8 @@
 name: Build and Test
 
-on: [pull_request]
+on:
+  push:
+    paths: ["src/**"]
 
 jobs:
   buildAndTest:
