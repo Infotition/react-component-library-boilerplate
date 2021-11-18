@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+example/
+
+# production
+/build
+
+# development
+storybook-static/
