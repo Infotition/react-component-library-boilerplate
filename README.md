@@ -15,12 +15,6 @@
 		<a href="https://github.com/Infotition/react-component-library-boilerplate/blob/main/LICENSE" title="license">
 			<img src="https://img.shields.io/github/license/Infotition/react-component-library-boilerplate" alt="license" />
 		</a>
-    <a href="https://www.npmjs.com/package/infotition-react-component-library-boilerplate" title="npm package">
-      <img alt="npm bundle size" src="https://img.shields.io/npm/v/infotition-react-component-library-boilerplate">
-    </a>
-    <a href="https://www.npmjs.com/package/infotition-react-component-library-boilerplate" title="npm package">
-      <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/infotition-react-component-library-boilerplate">
-    </a>
 		<a href="https://discord.gg/NpxrDGYDwV" title="discord">
 			<img src="https://img.shields.io/discord/792139920260464670?color=7289da&logo=discord&logoColor=white" alt="discord server" />
 		</a>
